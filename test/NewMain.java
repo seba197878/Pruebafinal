@@ -25,6 +25,7 @@ public class NewMain {
         System.out.println("ahhgdhgbfdngfxgdfahgchgcgshshs"
                 + "");
         System.out.println(" yadhira Rebaza 0246545465465 ");
+        System.out.println("Vero Galbicka");
         
     }
     
